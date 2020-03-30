@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-counter-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/my-counter-app/static/js/main.4b7095ca.chunk.js",
+    "main.js.map": "/my-counter-app/static/js/main.4b7095ca.chunk.js.map",
+    "runtime-main.js": "/my-counter-app/static/js/runtime-main.23aa387f.js",
+    "runtime-main.js.map": "/my-counter-app/static/js/runtime-main.23aa387f.js.map",
+    "static/js/2.654e3526.chunk.js": "/my-counter-app/static/js/2.654e3526.chunk.js",
+    "static/js/2.654e3526.chunk.js.map": "/my-counter-app/static/js/2.654e3526.chunk.js.map",
+    "index.html": "/my-counter-app/index.html",
+    "precache-manifest.eaad86c0eab32e6598e9f43406d4c089.js": "/my-counter-app/precache-manifest.eaad86c0eab32e6598e9f43406d4c089.js",
+    "service-worker.js": "/my-counter-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/my-counter-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.654e3526.chunk.js.LICENSE.txt": "/my-counter-app/static/js/2.654e3526.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/my-counter-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23aa387f.js",
+    "static/js/2.654e3526.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4b7095ca.chunk.js"
+  ]
+}
